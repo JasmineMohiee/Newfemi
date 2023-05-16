@@ -19,7 +19,7 @@
         <div class="page-header breadcrumb-wrap">
             <div class="container">
                 <div class="breadcrumb">
-                    <a href="index.html" rel="nofollow">Home</a>
+                    <a href="{{route('home.index')}}" rel="nofollow">Home</a>
                     <span></span> Shop
                 </div>
             </div>
@@ -145,12 +145,11 @@
                         <div class="widget-category mb-30">
                             <h5 class="section-title style-1 mb-30 wow fadeIn animated">Category</h5>
                             <ul class="categories">
-                            <li><a href="shop.html">Shoes & Bags</a></li>
-                                <li><a href="shop.html">Blouses & Shirts</a></li>
-                                <li><a href="shop.html">Dresses</a></li>
-                                <li><a href="shop.html">Makeup & Skincare</a></li>
-                                <li><a href="shop.html">Jewelry & Watch</a></li>
-                                <li><a href="shop.html">Accessories</a></li>
+                            
+                                <li><a href="{{route('shop')}}">Blouses & Shirts</a></li>
+                                <li><a href="{{route('shop')}}">Dresses</a></li>
+                                
+                              
                             @foreach($categories as $category)
                                 <li><a href="{{route('product.category',['slug'=>$category->slug])}}">{{$category->name}}</a></li>
                             @endforeach

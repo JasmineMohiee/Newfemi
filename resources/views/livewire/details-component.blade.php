@@ -3,9 +3,9 @@
         <div class="page-header breadcrumb-wrap">
             <div class="container">
                 <div class="breadcrumb">
-                    <a href="index.html" rel="nofollow">Home</a>
-                    <span></span> Fashion
-                    <span></span> Abstract Print Patchwork Dress
+                    <a href="{{route('home.index')}}" rel="nofollow">Home</a>
+                    <span></span> Women's Clothing
+                    
                 </div>
             </div>
         </div>
@@ -69,7 +69,7 @@
                                         <h2 class="title-detail">{{$product->name}}</h2>
                                         <div class="product-detail-rating">
                                             <div class="pro-details-brand">
-                                                <span> Brands: <a href="shop.html">Bootstrap</a></span>
+                                                <span> Category: <a href="shop.html">Hoodies</a></span>
                                             </div>
                                             <div class="product-rate-cover text-end">
                                                 <div class="product-rate d-inline-block">
@@ -450,14 +450,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="product-content-wrap">
-                                                    <h2><a href="product-details.html" tabindex="0">Ulstra Bass Headphone</a></h2>
+                                                    <h2><a href="product-details.html" tabindex="0">Kiko Lipstick double touch</a></h2>
                                                     <div class="rating-result" title="90%">
                                                         <span>
                                                         </span>
                                                     </div>
                                                     <div class="product-price">
-                                                        <span>$238.85 </span>
-                                                        <span class="old-price">$245.8</span>
+                                                        <span>238.85LE </span>
+                                                        <span class="old-price">245.8LE</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -468,7 +468,7 @@
                                                     <div class="product-img product-img-zoom">
                                                         <a href="product-details.html" tabindex="0">
                                                             <img class="default-img" src="{{asset('assets/imgs/shop/product-3-1.jpg')}}" alt="">
-                                                            <img class="hover-img" src="{{asset('assets/imgs/shop/product-4-2.jpg')}}" alt="">
+                                                            <img class="hover-img" src="{{asset('assets/imgs/shop/product-3-2.jpg')}}" alt="">
                                                         </a>
                                                     </div>
                                                     <div class="product-action-1">
@@ -481,14 +481,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="product-content-wrap">
-                                                    <h2><a href="product-details.html" tabindex="0">Smart Bluetooth Speaker</a></h2>
+                                                    <h2><a href="product-details.html" tabindex="0">Bt21 Pencil Case</a></h2>
                                                     <div class="rating-result" title="90%">
                                                         <span>
                                                         </span>
                                                     </div>
                                                     <div class="product-price">
-                                                        <span>$138.85 </span>
-                                                        <span class="old-price">$145.8</span>
+                                                        <span>138.85LE </span>
+                                                        <span class="old-price">145.8LE</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -512,14 +512,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="product-content-wrap">
-                                                    <h2><a href="product-details.html" tabindex="0">HomeSpeak 12UEA Goole</a></h2>
+                                                    <h2><a href="product-details.html" tabindex="0">H&M Cropped ribbed velour top </a></h2>
                                                     <div class="rating-result" title="90%">
                                                         <span>
                                                         </span>
                                                     </div>
                                                     <div class="product-price">
-                                                        <span>$738.85 </span>
-                                                        <span class="old-price">$1245.8</span>
+                                                        <span>238.85LE</span>
+                                                        <span class="old-price">255.8LE</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -530,7 +530,7 @@
                                                     <div class="product-img product-img-zoom">
                                                         <a href="product-details.html" tabindex="0">
                                                             <img class="default-img" src="{{asset('assets/imgs/shop/product-5-1.jpg')}}" alt="">
-                                                            <img class="hover-img" src="{{asset('assets/imgs/shop/product-3-2.jpg')}}" alt="">
+                                                            <img class="hover-img" src="{{asset('assets/imgs/shop/product-5-2.jpg')}}" alt="">
                                                         </a>
                                                     </div>
                                                     <div class="product-action-1">
@@ -543,14 +543,14 @@
                                                     </div>
                                                 </div>
                                                 <div class="product-content-wrap">
-                                                    <h2><a href="product-details.html" tabindex="0">Dadua Camera 4K 2022EF</a></h2>
+                                                    <h2><a href="product-details.html" tabindex="0">Stray Kids SKZ SKZOO Hoodie</a></h2>
                                                     <div class="rating-result" title="90%">
                                                         <span>
                                                         </span>
                                                     </div>
                                                     <div class="product-price">
-                                                        <span>$89.8 </span>
-                                                        <span class="old-price">$98.8</span>
+                                                        <span>189.8LE </span>
+                                                        <span class="old-price">198.8LE</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -564,13 +564,8 @@
                         <div class="widget-category mb-30">
                             <h5 class="section-title style-1 mb-30 wow fadeIn animated">Category</h5>
                             <ul class="categories">
-                                <li><a href="shop.html">Shoes & Bags</a></li>
-                                <li><a href="shop.html">Blouses & Shirts</a></li>
-                                <li><a href="shop.html">Dresses</a></li>
-                                <li><a href="shop.html">Swimwear</a></li>
-                                <li><a href="shop.html">Beauty</a></li>
-                                <li><a href="shop.html">Jewelry & Watch</a></li>
-                                <li><a href="shop.html">Accessories</a></li>
+                                
+                                
                             </ul>
                         </div>
                         <!-- Fillter By Price -->
@@ -628,8 +623,8 @@
                                     <img src="{{asset('assets/imgs/shop/thumbnail-3.jpg')}}" alt="#">
                                 </div>
                                 <div class="content pt-10">
-                                    <h5><a href="product-details.html">Chen Cardigan</a></h5>
-                                    <p class="price mb-0 mt-5">$99.50</p>
+                                    <h5><a href="product-details.html">Brown Bag</a></h5>
+                                    <p class="price mb-0 mt-5">99.50LE</p>
                                     <div class="product-rate">
                                         <div class="product-rating" style="width:90%"></div>
                                     </div>
@@ -640,8 +635,8 @@
                                     <img src="{{asset('assets/imgs/shop/thumbnail-4.jpg')}}" alt="#">
                                 </div>
                                 <div class="content pt-10">
-                                    <h6><a href="product-details.html">Chen Sweater</a></h6>
-                                    <p class="price mb-0 mt-5">$89.50</p>
+                                    <h6><a href="product-details.html">Pillowcase</a></h6>
+                                    <p class="price mb-0 mt-5">150.50LE</p>
                                     <div class="product-rate">
                                         <div class="product-rating" style="width:80%"></div>
                                     </div>
@@ -652,8 +647,8 @@
                                     <img src="{{asset('assets/imgs/shop/thumbnail-5.jpg')}}" alt="#">
                                 </div>
                                 <div class="content pt-10">
-                                    <h6><a href="product-details.html">Colorful Jacket</a></h6>
-                                    <p class="price mb-0 mt-5">$25</p>
+                                    <h6><a href="product-details.html">Backbag</a></h6>
+                                    <p class="price mb-0 mt-5">100LE</p>
                                     <div class="product-rate">
                                         <div class="product-rating" style="width:60%"></div>
                                     </div>
