@@ -70,6 +70,7 @@
                             </div>
                      @endforeach
                </div> 
+               <a href="{{route('shop.cart')}}" class="btn "> <i class="fi-rs-box-alt mr-10"></i> Add to cart </a>
                </div>
                </section>
 </div>

@@ -98,7 +98,7 @@
                             <div class="categori-dropdown-wrap categori-dropdown-active-large">
                                 <ul>
                                     <li class="has-children">
-                                        <a href="shop.html"><i class="surfsidemedia-font-dress"></i>Women's Clothing</a>
+                                        <a href="shop.html"><i class="femiforce-font-dress"></i>Women's Clothing</a>
                                         <div class="dropdown-menu">
                                             <ul class="mega-menu d-lg-flex">
                                                 <li class="mega-menu-col col-lg-7">
@@ -248,18 +248,18 @@
                                             </ul>
                                         </div>
                                     </li>
-                                    <li><a href="shop.html"><i class="surfsidemedia-font-desktop"></i>Makeup & Skincare</a></li>
-                                    <li><a href="shop.html"><i class="surfsidemedia-font-cpu"></i>Electronics Accessories</a></li>
-                                    <li><a href="shop.html"><i class="surfsidemedia-font-diamond"></i>Jewelry & Accessories</a></li>
-                                    <li><a href="shop.html"><i class="surfsidemedia-font-home"></i>Watches</a></li>
-                                    <li><a href="shop.html"><i class="surfsidemedia-font-high-heels"></i>Shoes</a></li>
+                                    <li><a href="{{route('shop')}}"><i class="femiforce-font-desktop"></i>Makeup & Skincare</a></li>
+                                    <li><a href="{{route('shop')}}"><i class="femiforce-font-cpu"></i>Electronics Accessories</a></li>
+                                    <li><a href="{{route('shop')}}"><i class="femiforce-font-diamond"></i>Jewelry & Accessories</a></li>
+                                    <li><a href="{{route('shop')}}"><i class="femiforce-font-home"></i>Watches</a></li>
+                                    <li><a href="{{route('shop')}}"><i class="femiforce-font-high-heels"></i>Shoes</a></li>
                                     
                                     <li>
                                         <ul class="more_slide_open" style="display: none;">
-                                            <li><a href="shop.html"><i class="surfsidemedia-font-desktop"></i>Beauty, Health</a></li>
-                                            <li><a href="shop.html"><i class="surfsidemedia-font-cpu"></i>Bags and Shoes</a></li>
-                                            <li><a href="shop.html"><i class="surfsidemedia-font-diamond"></i>Consumer Electronics</a></li>
-                                            <li><a href="shop.html"><i class="surfsidemedia-font-home"></i>Automobiles & Motorcycles</a></li>
+                                            <li><a href="{{route('shop')}}"><i class="femiforce-font-desktop"></i>Beauty, Health</a></li>
+                                            <li><a href="{{route('shop')}}"><i class="femiforce-font-cpu"></i>Bags and Shoes</a></li>
+                                            <li><a href="{{route('shop')}}"><i class="femiforce-font-diamond"></i>Consumer Electronics</a></li>
+                                            <li><a href="{{route('shop')}}"><i class="femiforce-font-home"></i>Automobiles & Motorcycles</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -297,7 +297,7 @@
                                             </li>
                                             <li class="sub-mega-menu sub-mega-menu-width-34">
                                                 <div class="menu-banner-wrap">
-                                                    <a href="product-details.html"><img src="assets/imgs/banner/menu-banner.jpg" alt="Surfside Media"></a>
+                                                    <a href="product-details.html"><img src="assets/imgs/banner/menu-banner.jpg" alt="Femi Force"></a>
                                                     <div class="menu-banner-content">
                                                         <h4>Hot deals</h4>
                                                         <h3>Don't miss<br> Trending</h3>
@@ -350,20 +350,20 @@
                         <div class="header-action-2">
                             <div class="header-action-icon-2">
                                 <a href="shop-wishlist.php">
-                                    <img alt="Surfside Media" src="assets/imgs/theme/icons/icon-heart.svg">
+                                    <img alt="Femi Force" src="assets/imgs/theme/icons/icon-heart.svg">
                                     <span class="pro-count white">4</span>
                                 </a>
                             </div>
                             <div class="header-action-icon-2">
                                 <a class="mini-cart-icon" href="cart.html">
-                                    <img alt="Surfside Media" src="assets/imgs/theme/icons/icon-cart.svg">
+                                    <img alt="Femi Force" src="assets/imgs/theme/icons/icon-cart.svg">
                                     <span class="pro-count white">2</span>
                                 </a>
                                 <div class="cart-dropdown-wrap cart-dropdown-hm2">
                                     <ul>
                                         <li>
                                             <div class="shopping-cart-img">
-                                                <a href="product-details.html"><img alt="Surfside Media" src="assets/imgs/shop/thumbnail-3.jpg"></a>
+                                                <a href="product-details.html"><img alt="Femi Force" src="assets/imgs/shop/thumbnail-3.jpg"></a>
                                             </div>
                                             <div class="shopping-cart-title">
                                                 <h4><a href="product-details.html">Plain Striola Shirts</a></h4>
@@ -375,7 +375,7 @@
                                         </li>
                                         <li>
                                             <div class="shopping-cart-img">
-                                                <a href="product-details.html"><img alt="Surfside Media" src="assets/imgs/shop/thumbnail-4.jpg"></a>
+                                                <a href="product-details.html"><img alt="Femi Force" src="assets/imgs/shop/thumbnail-4.jpg"></a>
                                             </div>
                                             <div class="shopping-cart-title">
                                                 <h4><a href="product-details.html">Macbook Pro 2022</a></h4>

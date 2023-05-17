@@ -4,7 +4,7 @@
         <div class="page-header breadcrumb-wrap">
             <div class="container">
                 <div class="breadcrumb">
-                    <a href="index.html" rel="nofollow">Home</a>
+                    <a href="{{route('home.index')}}" rel="nofollow">Home</a>
                     <span></span> Shop
                     <span></span> Checkout
                 </div>
@@ -677,27 +677,27 @@
                                         <tr>
                                             <td class="image product-thumbnail"><img src="{{asset('assets/imgs/shop/product-1-1.jpg')}}" alt="#"></td>
                                             <td>
-                                                <h5><a href="product-details.html">Yidarton Women Summer Blue</a></h5> <span class="product-qty">x 2</span>
+                                                <h5><a href="product-details.html">Mintra Waist Bag</a></h5> <span class="product-qty">x 2</span>
                                             </td>
-                                            <td>$180.00</td>
+                                            <td>180.00LE</td>
                                         </tr>
                                         <tr>
                                             <td class="image product-thumbnail"><img src="{{asset('assets/imgs/shop/product-2-1.jpg')}}" alt="#"></td>
                                             <td>
-                                                <h5><a href="product-details.html">LDB MOON Women Summe</a></h5> <span class="product-qty">x 1</span>
+                                                <h5><a href="product-details.html">Kiko liquid stick double touch</a></h5> <span class="product-qty">x 1</span>
                                             </td>
-                                            <td>$65.00</td>
+                                            <td>265.00LE</td>
                                         </tr>
                                         <tr>
                                             <td class="image product-thumbnail"><img src="{{asset('assets/imgs/shop/product-3-1.jpg')}}" alt="#"></td>
                                             <td><i class="ti-check-box font-small text-muted mr-10"></i>
-                                                <h5><a href="product-details.html">Women's Short Sleeve Loose</a></h5> <span class="product-qty">x 1</span>
+                                                <h5><a href="product-details.html">Bt21 Pencil Case</a></h5> <span class="product-qty">x 1</span>
                                             </td>
-                                            <td>$35.00</td>
+                                            <td>135.00LE</td>
                                         </tr>
                                         <tr>
                                             <th>SubTotal</th>
-                                            <td class="product-subtotal" colspan="2">$280.00</td>
+                                            <td class="product-subtotal" colspan="2">580.00LE</td>
                                         </tr>
                                         <tr>
                                             <th>Shipping</th>

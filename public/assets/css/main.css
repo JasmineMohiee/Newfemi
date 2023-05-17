@@ -1244,7 +1244,7 @@ textarea:focus {
 }
 
 .select2-dropdown .select2-search--dropdown .select2-search__field {
-  border: 1px solid #F15412;
+  border: 1px solid #dc0d9f;
   margin-bottom: 15px;
   border-radius: 5px;
   height: 40px;
@@ -1311,7 +1311,7 @@ textarea:focus {
 }
 
 .contact-from-area .contact-form-style button:hover {
-  background-color: #F15412 !important;
+  background-color: #dc0d9f !important;
 }
 
 .form-group {
@@ -1407,8 +1407,8 @@ label {
 }
 
 .custome-checkbox input[type="checkbox"]:checked+.form-check-label::before {
-  background-color: #F15412;
-  border-color: #F15412;
+  background-color: #f9a2ca;
+  border-color: #f9a2ca;
 }
 
 .custome-checkbox input[type="checkbox"]:checked+.form-check-label::after {
@@ -1564,7 +1564,7 @@ label {
   outline: none !important;
   -webkit-box-shadow: none;
   box-shadow: none;
-  border-color: #F15412;
+  border-color: #f9a2ca;
 }
 
 .comment-form input {
@@ -1584,7 +1584,7 @@ label {
   outline: none !important;
   -webkit-box-shadow: none;
   box-shadow: none;
-  border-color: #F15412;
+  border-color: #f9a2ca;
 }
 
 .comment-form button {
@@ -1593,8 +1593,8 @@ label {
   padding: 12px 40px;
   color: #ffffff;
   border: none;
-  background-color: #F15412;
-  border: 1px solid #F15412;
+  background-color: #f9a2ca;
+  border: 1px solid #f9a2ca;
   border-radius: 4px;
 }
 
@@ -1638,9 +1638,9 @@ label {
 }
 
 .button-contactForm {
-  background: #F15412;
+  background: #dc0d9f;
   color: #fff;
-  border-color: #F15412;
+  border-color: #dc0d9f;
   padding: 12px 25px;
 }
 
@@ -2152,7 +2152,7 @@ label {
 }
 
 .card-1:hover a {
-  color: #F15412;
+  color: #dc0d9f;
 }
 
 .hero-card {
@@ -2167,7 +2167,7 @@ label {
 }
 
 .hero-card:hover {
-  border: 1px solid #F15412;
+  border: 1px solid #dc0d9f;
 }
 
 .hero-card .hero-card-icon {
@@ -2262,12 +2262,12 @@ label {
 }
 
 .nav-tabs .nav-link.active {
-  color: #F15412;
+  color: #dc0d9f;
   background-color: #fde1bd;
 }
 
 .nav-tabs .nav-link:hover {
-  color: #F15412;
+  color: #dc0d9f;
   background-color: #fde1bd;
   -webkit-transform: translateY(-3px);
   transform: translateY(-3px);
@@ -2321,7 +2321,7 @@ label {
 
 .dashboard-menu ul li a.active {
   color: #fff;
-  background-color: #F15412;
+  background-color: #dc0d9f;
 }
 
 .dashboard-menu ul li a.active i {
@@ -2514,7 +2514,7 @@ label {
   display: block;
   width: 10px;
   height: 10px;
-  background: #F15412;
+  background: #dc0d9f;
   opacity: 0;
   border-radius: 10px;
   -webkit-animation: slideleft 3s ease-in-out infinite;
@@ -3109,7 +3109,7 @@ table .product-thumbnail img {
 }
 
 .banner-big .btn {
-  background: #F15412 !important;
+  background: #dc0d9f !important;
   color: #fff;
   border-radius: 3px;
   font-size: 13px;
@@ -3118,7 +3118,7 @@ table .product-thumbnail img {
 }
 
 .banner-big .btn:hover {
-  background: #F15412 !important;
+  background: #dc0d9f !important;
 }
 
 /*Deal banners*/
@@ -3206,8 +3206,8 @@ table .product-thumbnail img {
 
 .deal .btn {
   background: none;
-  border: 2px solid #F15412;
-  color: #F15412;
+  border: 2px solid #dc0d9f;
+  color: #dc0d9f;
   border-radius: 4px;
   font-size: 14px;
   padding: 10px 24px;
@@ -3268,7 +3268,7 @@ table .product-thumbnail img {
   padding: 9px 8px 6px 8px;
   line-height: 1;
   border-radius: 4px;
-  color: #F15412;
+  color: #dc0d9f;
 }
 
 /*Page > About*/
