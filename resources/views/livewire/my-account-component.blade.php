@@ -42,7 +42,7 @@
                                     <div class="tab-pane fade active show" id="dashboard" role="tabpanel" aria-labelledby="dashboard-tab">
                                         <div class="card">
                                             <div class="card-header">
-                                                <h5 class="mb-0">Hello Rosie! </h5>
+                                                <h5 class="mb-0">Hello! </h5>
                                             </div>
                                             <div class="card-body">
                                                 <p>From your account dashboard. you can easily check &amp; view your <a href="#">recent orders</a>, manage your <a href="#">shipping and billing addresses</a> and <a href="#">edit your password and account details.</a></p>
@@ -68,25 +68,25 @@
                                                         </thead>
                                                         <tbody>
                                                             <tr>
-                                                                <td>#1357</td>
+                                                               {{-- <td>#1357</td>
                                                                 <td>March 45, 2022</td>
                                                                 <td>Processing</td>
                                                                 <td>$125.00 for 2 item</td>
-                                                                <td><a href="#" class="btn-small d-block">View</a></td>
+                                                                <td><a href="#" class="btn-small d-block">View</a></td> --}}
                                                             </tr>
                                                             <tr>
-                                                                <td>#2468</td>
+                                                               {{-- <td>#2468</td>
                                                                 <td>June 29, 2022</td>
                                                                 <td>Completed</td>
                                                                 <td>$364.00 for 5 item</td>
-                                                                <td><a href="#" class="btn-small d-block">View</a></td>
+                                                                <td><a href="#" class="btn-small d-block">View</a></td> --}}
                                                             </tr>
                                                             <tr>
-                                                                <td>#2366</td>
+                                                                {{-- <td>#2366</td>
                                                                 <td>August 02, 2022</td>
                                                                 <td>Completed</td>
                                                                 <td>$280.00 for 3 item</td>
-                                                                <td><a href="#" class="btn-small d-block">View</a></td>
+                                                                <td><a href="#" class="btn-small d-block">View</a></td> --}}
                                                             </tr>
                                                         </tbody>
                                                     </table>
@@ -127,9 +127,9 @@
                                                         <h5 class="mb-0">Billing Address</h5>
                                                     </div>
                                                     <div class="card-body">
-                                                        <address>000 Interstate<br> 00 Business Spur,<br> Sault Ste. <br>Marie, MI 00000</address>
+                                                       {{-- <address>000 Interstate<br> 00 Business Spur,<br> Sault Ste. <br>Marie, MI 00000</address>
                                                         <p>New York</p>
-                                                        <a href="#" class="btn-small">Edit</a>
+                                                        <a href="#" class="btn-small">Edit</a> --}}
                                                     </div>
                                                 </div>
                                             </div>
@@ -139,10 +139,10 @@
                                                         <h5 class="mb-0">Shipping Address</h5>
                                                     </div>
                                                     <div class="card-body">
-                                                        <address>4299 Express Lane<br>
+                                                         {{-- <address>4299 Express Lane<br>
                                                             Sarasota, <br>FL 00000 USA <br>Phone: 1.000.000.0000</address>
                                                         <p>Sarasota</p>
-                                                        <a href="#" class="btn-small">Edit</a>
+                                                        <a href="#" class="btn-small">Edit</a> --}}
                                                     </div>
                                                 </div>
                                             </div>
